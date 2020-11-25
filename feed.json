@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Vél&#x27;Aussonne",
+    "description": "",
+    "home_page_url": "https://breizhcat.github.io/gh-pages",
+    "feed_url": "https://breizhcat.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Breizhcat"
+    },
+    "items": [
+        {
+            "id": "https://breizhcat.github.io/gh-pages/sortie-du-20052020.html",
+            "url": "https://breizhcat.github.io/gh-pages/sortie-du-20052020.html",
+            "title": "Sortie du 20.05.2020",
+            "summary": "Sortie route et chemin. Passage d'un petit cours d'eau. Parcours sur Outdooractive.",
+            "content_html": "<p>Sortie route et chemin. </p>\n<p>Passage d'un petit cours d'eau.</p>\n<p><a href=\"https://www.outdooractive.com/fr/route/velo-de-route/midi-pyrenees/sortie-1/166615287/?share=%7Ezncwpn3a%244ossbwcf\" target=\"_blank\" rel=\"noopener noreferrer\"></a>Parcours sur <a href=\"https://www.outdooractive.com/fr/route/velo-de-route/midi-pyrenees/sortie-1/166615287/?share=%7Ezncwpn3a%244ossbwcf\" target=\"_blank\" rel=\"noopener noreferrer\">Outdooractive</a>.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://breizhcat.github.io/gh-pages/media/posts/1/sortie_01.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-xs.png 300w ,https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-sm.png 480w ,https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-md.png 768w\"  alt=\"\" width=\"1699\" height=\"916\"></figure>",
+            "author": {
+                "name": "Breizhcat"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-25T19:22:07+01:00",
+            "date_modified": "2020-11-25T19:22:07+01:00"
+        }
+    ]
+}
