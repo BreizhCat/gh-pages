@@ -3,7 +3,7 @@
     <title>Vél&#x27;Aussonne</title>
     <link href="https://breizhcat.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://breizhcat.github.io/gh-pages" />
-    <updated>2020-11-25T19:22:07+01:00</updated>
+    <updated>2020-11-26T11:40:05+01:00</updated>
     <author>
         <name>Breizhcat</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>Breizhcat</name>
         </author>
-        <link href="https://breizhcat.github.io/gh-pages/sortie-du-20052020.html"/>
-        <id>https://breizhcat.github.io/gh-pages/sortie-du-20052020.html</id>
+        <link href="https://breizhcat.github.io/gh-pages/sortie-du-20052020/"/>
+        <id>https://breizhcat.github.io/gh-pages/sortie-du-20052020/</id>
 
-        <updated>2020-11-25T19:22:07+01:00</updated>
+        <updated>2020-11-26T11:40:05+01:00</updated>
             <summary>
                 <![CDATA[
                     Sortie route et chemin. Passage d'un petit cours d'eau. Parcours sur Outdooractive.
@@ -28,7 +28,7 @@
                 <p>Sortie route et chemin. </p>
 <p>Passage d'un petit cours d'eau.</p>
 <p><a href="https://www.outdooractive.com/fr/route/velo-de-route/midi-pyrenees/sortie-1/166615287/?share=%7Ezncwpn3a%244ossbwcf" target="_blank" rel="noopener noreferrer"></a>Parcours sur <a href="https://www.outdooractive.com/fr/route/velo-de-route/midi-pyrenees/sortie-1/166615287/?share=%7Ezncwpn3a%244ossbwcf" target="_blank" rel="noopener noreferrer">Outdooractive</a>.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://breizhcat.github.io/gh-pages/media/posts/1/sortie_01.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-xs.png 300w ,https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-sm.png 480w ,https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-md.png 768w"  alt="" width="1699" height="916"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://breizhcat.github.io/gh-pages/media/posts/1/sortie_01.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-xs.png 300w ,https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-sm.png 480w ,https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-md.png 768w ,https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-lg.png 1024w ,https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-xl.png 1360w ,https://breizhcat.github.io/gh-pages/media/posts/1/responsive/sortie_01-2xl.png 1600w"  alt="" width="1699" height="916"></figure>
             ]]>
         </content>
     </entry>
